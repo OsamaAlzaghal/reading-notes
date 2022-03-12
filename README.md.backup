@@ -13,3 +13,6 @@ Console.WriteLine("My name is Osama Alzaghal!");
 
 ---
 
+### **You can check my [LinkedIn](https://www.linkedin.com/in/osama-al-zaghal-374732217/) and  [GitHub](https://github.com/OsamaAlzaghal) account by clicking on the links.**
+
+---
