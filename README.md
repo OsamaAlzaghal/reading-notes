@@ -12,7 +12,7 @@
 | Class01 | [Exception-Handling](./Exception&#32;Handling) |
 | Class01 | [Command-Line](./Command-Line) |
 | Class02 | [Unit-Testing-and-Documentation](./Unit-Testing-and-Documentation) |
-
+| Class03 | [File-Manipulation](./File&#32;Manipulation-System.IO) |
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
 
