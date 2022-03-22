@@ -13,6 +13,7 @@
 | Class01 | [Command-Line](./Command-Line) |
 | Class02 | [Unit-Testing-and-Documentation](./Unit-Testing-and-Documentation) |
 | Class03 | [File-Manipulation](./File&#32;Manipulation-System.IO) |
+| Class04 | [Classes & Memory Management](./Classes&#32;&&#32;Memory&#32;Management) |
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
 
