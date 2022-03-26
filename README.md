@@ -12,6 +12,8 @@
 | Class02 | [Unit-Testing-and-Documentation](./Topics/Unit-Testing-and-Documentation) |
 | Class03 | [File-Manipulation](./Topics/File&#32;Manipulation-System.IO) |
 | Class04 | [Classes & Memory Management](./Topics/Classes&#32;&&#32;Memory&#32;Management) |
+| Class06 | [OOP](./Topics/OOP) |
+
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
 
