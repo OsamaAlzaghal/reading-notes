@@ -5,6 +5,7 @@
 ## Table of contents:
 | Class # | Topic |
 | ----------- | ----------- |
+| Things I want to know more about | [Questions](./Topics/Questions) |
 | Pre-Work | [Command-Line](./Topics/Command-Line) |
 | Pre-Work | [SQL](./Topics/SQL) |
 | Pre-Work | [Mindset](./Topics/Mindset) |
@@ -13,6 +14,7 @@
 | Class03 | [File-Manipulation](./Topics/File&#32;Manipulation-System.IO) |
 | Class04 | [Classes & Memory Management](./Topics/Classes&#32;&&#32;Memory&#32;Management) |
 | Class06 | [OOP](./Topics/OOP) |
+| Class07 | [Interfaces](./Topics/Interfaces) |
 
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
