@@ -15,6 +15,7 @@
 | Class04 | [Classes & Memory Management](./Topics/Classes&#32;&&#32;Memory&#32;Management) |
 | Class06 | [OOP](./Topics/OOP) |
 | Class07 | [Interfaces](./Topics/Interfaces) |
+| Class07 | [Collections&Enums](./Topics/Collections&Enums) |
 
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
