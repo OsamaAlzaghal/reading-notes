@@ -21,8 +21,7 @@ This means that the last item added to the stack will be the first item popped o
 
 + Top - This is the top of the stack.
 
-	![top2](https://media.geeksforgeeks.org/wp-content/uploads/geek-stack-1.png)
-![top](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/how-to-implement-stack-push-operation-cf97479ab11316c4.png)
+	![top](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/how-to-implement-stack-push-operation-cf97479ab11316c4.png)
 
 + Peek - When you peek you will view the value of the top Node in the stack. When you attempt to peek an empty stack an exception will be raised.
 
