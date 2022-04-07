@@ -15,8 +15,9 @@
 | Class04 | [Classes & Memory Management](./Topics/Classes&#32;&&#32;Memory&#32;Management) |
 | Class06 | [OOP](./Topics/OOP) |
 | Class07 | [Interfaces](./Topics/Interfaces) |
-| Class08 | [Collections&Enums](./Topics/Collections&Enums) 
-| Class09 | [LINQ](./Topics/LINQ)
+| Class08 | [Collections&Enums](./Topics/Collections&Enums) |
+| Class09 | [LINQ](./Topics/LINQ) |
+| Class10 | [Stacks&Queues](./Topics/Stacks&Queues) |
 
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
