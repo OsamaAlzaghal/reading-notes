@@ -12,18 +12,21 @@ This means that the last item added to the stack will be the first item popped o
 
 ### A stack should include the following:
 + Push - Nodes or items that are put into the stack are pushed.
-![push](https://www.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-Stack-Push-Operations.png)
+
+	![push](https://www.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-Stack-Push-Operations.png)
 
 + Pop - Nodes or items that are removed from the stack are popped. When you attempt to pop an empty stack an exception will be raised.
-![pop](https://www.javascripttutorial.net/wp-content/uploads/2016/08/JavaScrippt-Stack-Pop.png)
+
+	![pop](https://www.javascripttutorial.net/wp-content/uploads/2016/08/JavaScrippt-Stack-Pop.png)
 
 + Top - This is the top of the stack.
-![top2](https://media.geeksforgeeks.org/wp-content/uploads/geek-stack-1.png)
-This is the top after performing push operation:
+
+	![top2](https://media.geeksforgeeks.org/wp-content/uploads/geek-stack-1.png)
 ![top](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/how-to-implement-stack-push-operation-cf97479ab11316c4.png)
 
 + Peek - When you peek you will view the value of the top Node in the stack. When you attempt to peek an empty stack an exception will be raised.
-![peek](https://qph.cf2.quoracdn.net/main-qimg-f22268230c00651b84db79c13bdb7ec9)
+
+	![peek](https://qph.cf2.quoracdn.net/main-qimg-f22268230c00651b84db79c13bdb7ec9)
 
 + IsEmpty - used to check and verify if a Stack is empty or not. It returns True if the Stack is empty else it returns False.
 ---
@@ -40,12 +43,16 @@ This means that the last item in the queue will be the last item out of the queu
 ### A queue should contain the following:
 + Enqueue - Nodes or items that are added to the queue.
 + Dequeue - Nodes or items that are removed from the queue. If called when the queue is empty an exception will be raised.
-![queue](https://www.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-Queue-Illustration.png)
+
+	![queue](https://www.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-Queue-Illustration.png)
 
 **Note:** we can call the Rear other names such as BACK or TAIL.
+
 + Front - This is the front/first Node of the queue.
 + Rear - This is the rear/last Node of the queue.
 + Peek - When you peek you will view the value of the front Node in the queue. If called when the queue is empty an exception will be raised.
-![peek](https://dz2cdn1.dzone.com/storage/temp/8350689-fifo-queue.png)
+
+	![peek](https://dz2cdn1.dzone.com/storage/temp/8350689-fifo-queue.png)
+	
 + IsEmpty - returns true when queue is empty otherwise returns false. For the first queue, when IsEmpty is called, it will return true, but for the other queues, it will return false.
 ![IsEmpty](https://cdn.programiz.com/sites/tutorial2program/files/queue.png)
