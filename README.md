@@ -18,6 +18,7 @@
 | Class08 | [Collections&Enums](./Topics/Collections&Enums) |
 | Class09 | [LINQ](./Topics/LINQ) |
 | Class10 | [Stacks&Queues](./Topics/Stacks&Queues) |
+| Class11 | [ERDs](./Topics/ERDs) |
 
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
