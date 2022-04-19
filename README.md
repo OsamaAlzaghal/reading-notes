@@ -20,6 +20,8 @@
 | Class10 | [Stacks&Queues](./Topics/Stacks&Queues) |
 | Class11 | [ERDs](./Topics/ERDs) |
 | Class12 | [Entity_Framework&APIs](./Topics/Entity_Framework&APIs) |
+| Class13 | [Dependency-Injection&Repository-Design-Pattern](./Topics/Dependency-Injection&Repository-Design-Pattern) |
+
 
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
