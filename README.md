@@ -22,6 +22,7 @@
 | Class12 | [Entity_Framework&APIs](./Topics/Entity_Framework&APIs) |
 | Class13 | [Dependency-Injection&Repository-Design-Pattern](./Topics/Dependency-Injection&Repository-Design-Pattern) |
 | Class14 | [Trees](./Topics/Trees) |
+| Class15 | [Navigation Properties & Routing](./Topics/Navigation&#32;Properties&#32;&&#32;Routing) |
 
 
 ``` 
@@ -37,3 +38,4 @@ Console.WriteLine("My name is Osama Alzaghal!");
 ### **You can check my [LinkedIn](https://www.linkedin.com/in/osama-al-zaghal-374732217/) and  [GitHub](https://github.com/OsamaAlzaghal) account by clicking on the links.**
 
 ---
+
