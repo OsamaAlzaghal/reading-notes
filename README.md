@@ -23,6 +23,7 @@
 | Class13 | [Dependency-Injection&Repository-Design-Pattern](./Topics/Dependency-Injection&Repository-Design-Pattern) |
 | Class14 | [Trees](./Topics/Trees) |
 | Class15 | [Navigation Properties & Routing](./Topics/Navigation&#32;Properties&#32;&&#32;Routing) |
+| Class16 | [Data-Transfer-Objects](./Topics/Data-Transfer-Objects) |
 
 
 ``` 
