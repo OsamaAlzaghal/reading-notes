@@ -6,24 +6,25 @@
 | Class # | Topic |
 | ----------- | ----------- |
 | Things I want to know more about | [Questions](./Topics/Questions) |
-| Pre-Work | [Command-Line](./Topics/Command-Line) |
+| Pre-Work | [Command Line](./Topics/Command-Line) |
 | Pre-Work | [SQL](./Topics/SQL) |
 | Pre-Work | [Mindset](./Topics/Mindset) |
-| Class01 | [Exception-Handling](./Topics/Exception&#32;Handling) |
-| Class02 | [Unit-Testing-and-Documentation](./Topics/Unit-Testing-and-Documentation) |
-| Class03 | [File-Manipulation](./Topics/File&#32;Manipulation-System.IO) |
+| Class01 | [Exception Handling](./Topics/Exception&#32;Handling) |
+| Class02 | [Unit Testing and Documentation](./Topics/Unit-Testing-and-Documentation) |
+| Class03 | [File Manipulation](./Topics/File&#32;Manipulation-System.IO) |
 | Class04 | [Classes & Memory Management](./Topics/Classes&#32;&&#32;Memory&#32;Management) |
 | Class06 | [OOP](./Topics/OOP) |
 | Class07 | [Interfaces](./Topics/Interfaces) |
-| Class08 | [Collections&Enums](./Topics/Collections&Enums) |
+| Class08 | [Collections & Enums](./Topics/Collections&Enums) |
 | Class09 | [LINQ](./Topics/LINQ) |
-| Class10 | [Stacks&Queues](./Topics/Stacks&Queues) |
+| Class10 | [Stacks & Queues](./Topics/Stacks&Queues) |
 | Class11 | [ERDs](./Topics/ERDs) |
-| Class12 | [Entity_Framework&APIs](./Topics/Entity_Framework&APIs) |
-| Class13 | [Dependency-Injection&Repository-Design-Pattern](./Topics/Dependency-Injection&Repository-Design-Pattern) |
+| Class12 | [Entity Framework & APIs](./Topics/Entity_Framework&APIs) |
+| Class13 | [Dependency Injection Repository Design Pattern](./Topics/Dependency-Injection&Repository-Design-Pattern) |
 | Class14 | [Trees](./Topics/Trees) |
 | Class15 | [Navigation Properties & Routing](./Topics/Navigation&#32;Properties&#32;&&#32;Routing) |
-| Class16 | [Data-Transfer-Objects](./Topics/Data-Transfer-Objects) |
+| Class16 | [Data Transfer Objects](./Topics/Data-Transfer-Objects) |
+| Class17 | [Testing and Swagger and Deployment](./Topics/Testing-and-Swagger-and-Deployment) |
 
 
 ``` 
