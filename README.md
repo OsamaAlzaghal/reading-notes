@@ -27,6 +27,7 @@
 | Class17 | [Testing and Swagger and Deployment](./Topics/Testing-and-Swagger-and-Deployment) |
 | Class18 | [Identity](./Topics/Identity ) |
 | Class19 | [Roles, Claims and JWT Tokens](./Topics/Roles,ClaimsandJWTTokens) |
+| Class26 | [MVC](./Topics/MVC ) |
 
 
 ``` 
