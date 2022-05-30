@@ -28,6 +28,7 @@
 | Class18 | [Identity](./Topics/Identity ) |
 | Class19 | [Roles, Claims and JWT Tokens](./Topics/Roles,ClaimsandJWTTokens) |
 | Class26 | [MVC](./Topics/MVC ) |
+| Class27 | [MVC Forms](./Topics/MVC-Forms ) |
 
 
 ``` 
