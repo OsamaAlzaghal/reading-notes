@@ -29,6 +29,8 @@
 | Class19 | [Roles, Claims and JWT Tokens](./Topics/Roles,ClaimsandJWTTokens) |
 | Class26 | [MVC](./Topics/MVC ) |
 | Class27 | [MVC Forms](./Topics/MVC-Forms ) |
+| Class28 | [Hash Tables](./Topics/Hash-Tables ) |
+| Class28 | [Authentication, Authorization, Cookies](./Topics/Authentication,Authorization,Cookies ) |
 
 
 ``` 
