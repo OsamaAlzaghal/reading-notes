@@ -33,6 +33,7 @@
 | Class28 | [Authentication, Authorization, Cookies](./Topics/Authentication,Authorization,Cookies ) |
 | Class29 | [Azure Blob Storage](./Topics/Azure-Blob-Storage ) |
 | Class30 | [Razor Pages](./Topics/Razor-pages ) |
+| Class31 | [View Components](./Topics/View-Components ) |
 
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
