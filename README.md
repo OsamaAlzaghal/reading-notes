@@ -34,6 +34,7 @@
 | Class29 | [Azure Blob Storage](./Topics/Azure-Blob-Storage ) |
 | Class30 | [Razor Pages](./Topics/Razor-pages ) |
 | Class31 | [View Components](./Topics/View-Components ) |
+| Class32 | [Sendgrid](./Topics/Sendgrid ) |
 
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
