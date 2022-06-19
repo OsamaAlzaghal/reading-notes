@@ -49,7 +49,7 @@ We represent graphs through:
 
 + Adjacency Matrix: An Adjacency matrix is represented through a 2-dimensional array. If there are n vertices, then we are looking at an n x n Boolean matrix. Each Row and column represents each vertex of the data structure. The elements of both the column and the row must add up to 1 if there is an edge that connects the two, or zero if there isn’t a connection.
 
-	![AdjecancyMatrix](Assets/AdjecancyMatrix.jpg)
+	![AdjecancyMatrix](Assets/AdjacancyMatrix.jpg)
 
 + Adjacency List: An adjacency list is the most common way to represent graphs. An adjacency list is a collection of linked lists or array that lists all of the other vertices that are connected. Adjacency lists make it easy to view if one vertices connects to another.
 
