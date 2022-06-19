@@ -35,6 +35,7 @@
 | Class30 | [Razor Pages](./Topics/Razor-pages ) |
 | Class31 | [View Components](./Topics/View-Components ) |
 | Class32 | [Sendgrid](./Topics/Sendgrid ) |
+| Class33 | [Graph](./Topics/Graph ) |
 
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
