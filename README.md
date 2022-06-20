@@ -36,7 +36,7 @@
 | Class31 | [View Components](./Topics/View-Components ) |
 | Class32 | [Sendgrid](./Topics/Sendgrid ) |
 | Class33 | [Graph](./Topics/Graph ) |
-| Class33 | [Payments](./Topics/Payments ) |
+| Class34 | [Payments](./Topics/Payments ) |
 
 ``` 
 Console.WriteLine("My name is Osama Alzaghal!");
